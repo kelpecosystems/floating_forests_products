@@ -1,0 +1,17 @@
+name: "Floating Forests Projects"
+
+navbar:
+ title: ""
+ left:
+  - text: "Home"
+    href: index.html
+  - text: "Floating Forests"
+    href: http://floatingforests.org
+  - text: "Blog"
+    href: http://blog.floatingforests.org
+
+
+output:
+  html_document:
+    theme: lumen
+output_dir: "."

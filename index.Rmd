@@ -1,0 +1,13 @@
+---
+title: "Products from the Floating Forests Citizen Science Project"
+---
+
+<center>![](./images/all_kelp_zoomout_crop.png)</center>
+
+
+
+## Falklands  
+- [Full map of forests in the Falklands with certainty thresholds](./images/all_kelp_zoomout.jpg)  
+- [Full map of forests in the Falklands at threshold of 6 user agreement](./images/all_kelp_zoomout6.jpg)  
+- [Full seasonal map of forests in the Falklands at threshold of 6 user agreement](./images/seasonal_panels.jpg)  
+
